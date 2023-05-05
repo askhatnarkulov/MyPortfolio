@@ -44,3 +44,4 @@ align="left">
 | Stepik             | BI developer Tableau                       | 
 | Stepik             | Fundamentals of Statistics                 | 
 
+
