@@ -45,3 +45,27 @@ align="left">
 | Stepik             | Fundamentals of Statistics                 | 
 
 
+## 🏆 Projects
+
+### Project1️⃣: Online store visualization
+#### Tasks:
+<ol>
+  <li>Display complete sales and profit data</li>
+  <li>What are the sales by categories and sub-categories?</li>
+  <li>Display the most profitable and unprofitable sub-categories</li>
+  <li>It should be possible to see statistics for a specific product</li>
+</ol>
+
+#### How did I decide: 
+<p> I imported data into Tableau using SQL. Then, based on the data, I created several tables in Tableau to address the specified requirements. Finally, I merged them into one interactive dashboard.<p>
+
+> <a href="https://public.tableau.com/app/profile/askhat.narkulov/viz/Productanalysis_16835638341140/Dashboard1?publish=yes">🔗Project link</a>
+
+#### Conclusions (summary): This visualization displays complete sales and profit data for all cities.
+<ol>
+<p>◉ The data can be viewed in a segment dimension, product category, by product itself, and broken down by any date range.<p>
+<p>◉ Anybody can see the following information in the dashboard:<p>
+<p>➤➤ What are sales by categories and sub-categories?<p>
+<p>➤➤ The most profitable and unprofitable categories, products and etc.<p>
+<p>➤➤ It should be possible to see statistics for a specific product<p>
+</ol>
