@@ -69,3 +69,33 @@ align="left">
 <p>➤➤ The most profitable and unprofitable categories, products and etc.<p>
 <p>➤➤ It should be possible to see statistics for a specific product<p>
 </ol>
+
+### Project2️⃣: FOXY - anti-cinema startup 
+#### What I had: 
+<p> My cousin has a startup called FOXY, which is an anti-cinema. When I first visited there, I noticed that the staff was using a calculator on their phones for calculations with customers and recording reservations in a notebook. I offered my help to automate the process, speed up their work, and provide convenience in managing reservations.
+
+We concluded that creating a Google spreadsheet would be a good idea because I could work remotely if needed. Additionally, it is convenient for the directors as they can access it from any device using a link.
+
+After learning the pricing for services and promotions (pricing varies on weekdays/weekends, before 6 PM/after 6 PM, etc.), as well as the employees' preferences, I began working on the project.<p>
+ 
+#### Tasks:
+<ol>
+  <li>Create a Google spreadsheet for managing calculations, reservations, further analysis, and automating the process, taking into account feedback from the staff</li>
+  <li>Train the staff to use the spreadsheet</li>
+  <li>Conduct a profitability analysis of the business every week/month, create dashboards, and provide directors with information along with my observations</li>
+</ol>
+
+#### How did I decide: 
+<p> To begin with, I added important columns for calculating room fees, start time, and end time. Then, I included a column for additional sales (popcorn, drinks, etc.) so that the staff would have the complete payment amount. I added a weekday/weekend variation to calculate based on the current pricing. Lastly, I added columns for the customer's name, phone number, and so on.
+The next step was to train the staff and continue the project.<p>
+
+> <a href="https://public.tableau.com/app/profile/askhat.narkulov/viz/FOXYApril2023Results/Dashboard">🔗Project link</a>  
+> <a href="https://docs.google.com/spreadsheets/d/1t8mf-6Ymf1tX6cbWDaWQHUG4MpKGXfUU24djqWx1FPg/edit#gid=2073176998">🔗Project link</a>
+<p> ❗ HERE IS A TRUNCATED COPY OF THE PROJECT FOR YOUR REFERENCE <p>
+
+
+#### Conclusions (summary):
+<ol>
+<p>◉ Now that I have completed the project, every week I export the data to Excel, clean it, filter it, and structure it for analysis. After that, I import this Excel file into Tableau and begin creating a dashboard.<p>
+<p>◉ Automated the process, thereby speeding up the workflow for the employees, organizing the data, and reducing the risk of errors due to human factors.<p>
+</ol>
